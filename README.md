@@ -1,5 +1,4 @@
 # evans
-This will be used for class examples
 I'm going to type a line of code here
 
 
