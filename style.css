@@ -17,7 +17,7 @@ p a{
   color: #000;
   background-color: #EAEAEA;
   font-weight: bold;
-  text-align: center;
+
   text-decoration: none;
   padding: 4px;
   font-family: Helvetica, Arial, sans-serif;
@@ -36,7 +36,7 @@ p a{
 
 #nav li {
   list-style-type: none;
-  float: left;
+  text-align: center;
   margin: 0;
   padding: 0;
   width: 20%;
