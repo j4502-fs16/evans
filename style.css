@@ -1,11 +1,29 @@
+html {font-size: 100%;
+}
+
 p{
-     font-family:'Open Sans', sans-serif;
+     font-family: 'Merriweather', Georgia, "Times New Roman", serif;
+     font-size: 1rem;
+     line-height: 1.4rem;
+  color:#000
+}
+
+
+
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Merriweather Sans', Helvetica, Arial, sans-serif;
   color:#000
 }
 
 h1{
-  font-family:'Open Sans', sans-serif;
-  color:#000
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+h2{
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 body{
