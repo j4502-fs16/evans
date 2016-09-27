@@ -33,7 +33,7 @@ body{
 p a{
   display: block;
   color: #EAEAEA;
-  background-color: #C9B96F;
+  background-color: #EAEAEA;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
@@ -72,7 +72,7 @@ p a{
 }
 
 #nav a:hover, a:active {
-  background-color: #231F20;
+  background-color: #EAEAEA;
     text-align: center;
 }
 
