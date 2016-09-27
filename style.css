@@ -5,7 +5,7 @@ p{
      font-family: 'Merriweather', Georgia, "Times New Roman", serif;
      font-size: 1rem;
      line-height: 1.4rem;
-  color:#000
+  color:#231F20
 }
 
 
@@ -13,7 +13,7 @@ p{
 
 h1, h2, h3, h4, h5, h6{
   font-family: 'Merriweather Sans', Helvetica, Arial, sans-serif;
-  color:#000
+  color:#231F20
 }
 
 h1{
@@ -76,6 +76,13 @@ p a{
     text-align: center;
 }
 
+#footer {
+  text-align: right;
+  color: #C9B96F;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: .8em;
+  border-top: 3px solid #231F20;
+}
 
 
 img {
