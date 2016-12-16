@@ -77,7 +77,9 @@ body{
   background-color: #EAEAEA;
 }
 
-
+.lastchild{
+  border-bottom: 1px solid black;
+}
 
 
 
