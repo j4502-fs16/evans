@@ -3,12 +3,12 @@ html {font-size: 100%;
 
 body{
   text-align: center;
-  background-color: #grey;
+  background-color: #cccccc;
 }
 
 .container{
   width:95%;
-  background-color:#cccccc;
+  background-color:#ffffff;
   text-align: center;
   margin:0 auto;
 }
