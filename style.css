@@ -92,21 +92,29 @@ body{
 }
 
 
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Merriweather Sans', Helvetica, Arial, sans-serif;
+  color:#231F20
+}
+
 
 p{
      font-family: 'Merriweather', Georgia, "Times New Roman", serif;
      font-size: 1rem;
      line-height: 1.4rem;
-  color:#231F20
+     padding-left: 10px;
+     padding-right: 10px;
+     text-align: left;
+     max-width: 800px;
+     color:#231F20
 }
 
-
-
-
-h1, h2, h3, h4, h5, h6{
-  font-family: 'Merriweather Sans', Helvetica, Arial, sans-serif;
-  color:#231F20
+img {
+  border-style: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
+
 
 h1{
   font-size: 3rem;
@@ -139,9 +147,4 @@ p a{
   font-family: Helvetica, Arial, sans-serif;
   font-size: 0.6em;
   border-top: 3px solid #231F20;
-}
-
-
-img {
-  border-style: none;
 }
