@@ -82,7 +82,14 @@ body{
   border-bottom: 1px solid black;
 }
 
+.wrapper{
+  display: flex;
+  flex-flow: row wrap;
+}
 
+.main{
+  flex:1 100%;
+}
 
 
 
