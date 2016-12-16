@@ -42,45 +42,6 @@ body{
     text-align: center;
 }
 
-
-.nav1{
-  list-style: none;
-  display: flex;
-  flex-flow: column;
-  justify-content: space-around;
-  align-items: center;
-  margin: 0;
-  padding: 0;
-  border-left: 1px solid black;
-}
-
-.nav1 li {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  border-top: 1px solid black;
-  border-right: 1px solid black;
-}
-
-.nav1 a:link, a:visited {
-  display: block;
-  color: #231F20;
-  background-color: #ffffff;
-  text-align: center;
-  text-decoration: none;
-  padding: 4px;
-  font-family: Helvetica, Arial, sans-serif;
-}
-
-.nav1 a:hover, a:active {
-  background-color: #EAEAEA;
-}
-
-.lastchild{
-  border-bottom: 1px solid black;
-}
-
 .wrapper{
   display: flex;
   flex-flow: row wrap;
