@@ -59,18 +59,19 @@ p a{
 
 #nav li {
   list-style-type: none;
-  float: left;
-  margin: 0;
   padding: 0;
-  width: 25%;
+  margin: 0;
+  width: 100%;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
 }
 
 #nav a:link, a:visited {
   display: block;
   color: #EAEAEA;
   background-color: #231F20;
-  font-weight: bold;
   text-align: center;
+  font-weight: bold;
   text-decoration: none;
   padding: 4px;
   font-family: Helvetica, Arial, sans-serif;
