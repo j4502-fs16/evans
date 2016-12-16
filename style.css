@@ -1,6 +1,18 @@
 html {font-size: 100%;
 }
 
+body{
+  text-align: center;
+  background-color: #C9B96F;
+}
+
+#container{
+  width:95%;
+  background-color:#EAEAEA;
+  text-align: center;
+  margin:0 auto;
+}
+
 p{
      font-family: 'Merriweather', Georgia, "Times New Roman", serif;
      font-size: 1rem;
@@ -26,9 +38,7 @@ h2{
   margin-bottom: 1rem;
 }
 
-body{
-  text-align: center;
-}
+
 
 p a{
   display: block;
@@ -41,12 +51,7 @@ p a{
   font-family: Helvetica, Arial, sans-serif;
 }
 
-#container{
-  width:95%;
-  background-color:#EAEAEA;
-      text-align: center;
-  margin:0 auto;
-}
+
 
 #nav{
   padding: 0;
