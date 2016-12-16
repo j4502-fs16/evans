@@ -155,10 +155,11 @@ p a{
 
 
 
-#footer {
-  text-align: right;
-  color: #231F20;
+.footer {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 0.6em;
+  text-align: left;
+  color: #231F20;
   border-top: 3px solid #231F20;
+  padding-left: 30px
 }
